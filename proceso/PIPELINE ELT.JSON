@@ -1,0 +1,26 @@
+{
+    "id": "f4e642a0-f703-44ce-a387-9dd8bb148a11",
+    "pipeline_type": "WORKSPACE",
+    "clusters": [
+        {
+            "label": "default",
+            "node_type_id": "Standard_D4s_v3",
+            "num_workers": 0
+        }
+    ],
+    "development": true,
+    "continuous": true,
+    "channel": "CURRENT",
+    "photon": false,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/Users/cutipaflora34_gmail.com#ext#@cutipaflora34gmail.onmicrosoft.com/Trabajo_Final/proceso/NTBK-Desembolso-EnLinea"
+            }
+        }
+    ],
+    "name": "ETL_Desembolsos_enlinea",
+    "edition": "ADVANCED",
+    "catalog": "catalog_dev",
+    "schema": "plataforma_financiera"
+}
